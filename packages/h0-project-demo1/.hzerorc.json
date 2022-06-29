@@ -1,0 +1,6 @@
+{
+  "package": {
+    "initLoad": true,
+    "registerRegex": "\\/h0-project-demo1\\/"
+  }
+}
